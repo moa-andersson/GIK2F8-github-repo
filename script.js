@@ -48,6 +48,6 @@ renderBookList(filteredList);
 
 function renderBookList(list) {
   //element i html-listan visas eller döljs beroende på listans innehåll
-  //console.log(list)
+  //console.log(list))))) 
 
 }
